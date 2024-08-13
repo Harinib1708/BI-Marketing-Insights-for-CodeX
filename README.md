@@ -24,11 +24,11 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 ## Result & Insights
 ## Demographic Insights
 
-1.Out of 10,000 respondents, 60% are male, showing a strong male preference for energy drinks. 
+1. Out of 10,000 respondents, 60% are male, showing a strong male preference for energy drinks. 
 
-2.The popularity is highest among the 15-30 age group, making up 70% of respondents. 
+2. The popularity is highest among the 15-30 age group, making up 70% of respondents. 
 
-3.Online ads are the most effective way to reach this young demographic.
+3. Online ads are the most effective way to reach this young demographic.
 
 ## Consumer Preference
 1. Caffeine is the top expected ingredient in energy drinks, with compact cans and innovative bottles in high demand, and Cola Coka leading the market.
@@ -36,14 +36,14 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 3. Supermarkets are the most common choice for consumers to purchase energy drinks.
 ## Purchase Behavior
 
-1. 43% of consumers prefer buying a product priced between ₹50-99.
-2. 40% of consumers do not expect changes in packaging, while 39% are open to trying Limited Edition Packaging.
+1.  43% of consumers prefer buying a product priced between ₹50-99.
+2.  40% of consumers do not expect changes in packaging, while 39% are open to trying Limited Edition Packaging.
 
 ## Product Development
 
-1. Only 219 out of 980 respondents have a positive brand perception of CodeX.
-2. Improving product availability is crucial, as 20% of consumers choose a product based on its availability.
-3. The taste experience rating of 3.28 matches the industry average, but it requires immediate attention for improvement.
+1.  Only 219 out of 980 respondents have a positive brand perception of CodeX.
+2.  Improving product availability is crucial, as 20% of consumers choose a product based on its availability.
+3.  The taste experience rating of 3.28 matches the industry average, but it requires immediate attention for improvement.
 
 ## Recommendations For CodeX
 

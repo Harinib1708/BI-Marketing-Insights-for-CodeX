@@ -1,4 +1,4 @@
-# Marketing_Insights_for_CodeX
+# Marketing_Insights_for_CodeX 🚀
 
 ## Introduction
 

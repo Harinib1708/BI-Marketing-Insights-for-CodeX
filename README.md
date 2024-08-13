@@ -21,6 +21,10 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 - dim_cities
 - fact_survey_responses
 
+## Live Dashboard
+
+Click here to View dashboard view(https://app.powerbi.com/view?r=eyJrIjoiZjcxOWQ2YmUtNjM3Ny00ZTI5LWFlMTctNmU4ODQwZWY0Yjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Result & Insights
 ## Demographic Insights
 

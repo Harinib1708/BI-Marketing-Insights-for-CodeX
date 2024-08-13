@@ -1,5 +1,6 @@
 # Marketing_Insights_for_CodeX 🚀
 
+Welcome to the Marketing Insights for CodeX Power BI project repository! 
 ## Introduction
 
 Codex, a German beverage company, recently launched its energy drink in 10 cities in India. The Marketing team aims to increase brand awareness, market share, and product development. They conducted a survey with 10,000 respondents in these cities.
@@ -21,9 +22,8 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 - dim_cities
 - fact_survey_responses
 
-## Live Dashboard
-
-Click here to View dashboard view(https://app.powerbi.com/view?r=eyJrIjoiZjcxOWQ2YmUtNjM3Ny00ZTI5LWFlMTctNmU4ODQwZWY0Yjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## Live Dashboard Link 📊
+Explore the live dashboard [here.](https://app.powerbi.com/view?r=eyJrIjoiZjcxOWQ2YmUtNjM3Ny00ZTI5LWFlMTctNmU4ODQwZWY0Yjg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Result & Insights
 ## Demographic Insights
@@ -63,4 +63,5 @@ Click here to View dashboard view(https://app.powerbi.com/view?r=eyJrIjoiZjcxOWQ
 - Online Retailers/E-commerce 
 - Guerilla Marketing
 
+# Explore, Analyze, Decide 📊🔍🎯🚀
 

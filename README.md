@@ -25,7 +25,9 @@ Conduct an analysis on survey responses and provide actionable recommedations fo
 ## Demographic Insights
 
 1.Out of 10,000 respondents, 60% are male, showing a strong male preference for energy drinks. 
+
 2.The popularity is highest among the 15-30 age group, making up 70% of respondents. 
+
 3.Online ads are the most effective way to reach this young demographic.
 
 ## Consumer Preference
